@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(77, 55, 55);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+strong{
+    color: rgb(179, 207, 121);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-style: italic;
+}
+
+h1{
+    font-family:cursive;
+    
+}
